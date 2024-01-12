@@ -1,0 +1,8 @@
+@article{REPO393,
+    author = "Yang, Jiaqi and Du, Bo and Zhang, Liangpei",
+    journal = "IEEE Transactions on Neural Networks and Learning Systems",
+    number = "",
+    title = "{Overcoming the Barrier of Incompleteness: A Hyperspectral Image Classification Full Model}",
+    volume = "",
+    year = "2023"
+}
